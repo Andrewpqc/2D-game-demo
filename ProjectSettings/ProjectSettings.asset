@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: d5436136f406445f2a42a47c926b8b76
+  productGUID: a78db9147cb0a45f0acc486b90622c0d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: 2D-demo-game
+  productName: 2D-scene-demo
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -614,8 +614,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 32cd4828-5639-49bd-8d2f-a180c0628457
-  projectName: 2D-demo-game
+  cloudProjectId: 04662610-094a-4506-b91d-3d3f2d023d70
+  projectName: 2D-scene-demo
   organizationId: andrewpqc
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
