@@ -1,7 +1,10 @@
-# upm-package-template-2D
-Project Template for 2D scenes not using a SRP 
+# 2D-game-demo
+a 2D game made with unity.
 
-This template uses Unity’s built in rendering pipeline. This is a good starting point for developers looking to create 2D projects. 
+# Preview
+![](/images/preview2.png)
 
-Package Name: com.unity.template.2d
-Package Version: 0.0.4
+![](/images/preview1.png)
+
+# Download
+Go to click [2D_game.tar.gz](https://github.com/Andrewpqc/binary-executable-file) on github,and click **View Raw** to download this game.
